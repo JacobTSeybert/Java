@@ -1,7 +1,7 @@
 /*
 A basic Car loan calculate, input the desired informtion in the beginning to calcualte your monthly payments on your new whip. (does do light error checking)
 */
-public class CarLoan {
+public class Carloan {
 	public static void main(String[] args) {
     int carLoan = 64000;
     int loanLength = 6;
