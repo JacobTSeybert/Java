@@ -1,8 +1,4 @@
 package Classroom;
-/*
- * me losing my sanity
- */
-import java.util.Arrays;
 
 public class Classroom {
   
