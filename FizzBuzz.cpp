@@ -1,3 +1,10 @@
+for (int i = 1l i<=100; i++){
+    
+}
+
+
+
+
 package FizzBuzz;
 
 public class FizzBuzz{
