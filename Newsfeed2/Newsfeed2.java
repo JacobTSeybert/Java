@@ -45,3 +45,4 @@ public class Newsfeed2 {
       robotTimes.changeRating(3, 5);
     }
   }
+  
